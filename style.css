@@ -1,0 +1,28 @@
+nav > *{
+  background-color: #337ab7;
+  color:white !important;
+  border-color: #2e6da4 !important;
+}
+.button-div{
+  width:50px;
+  height: 50px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50vh;
+ 
+}
+
+.background{
+background-image: url('https://www.mealsharing.com/assets/v2/home/slide_1.jpg');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ top: 0;
+ position: absolute;
+ z-index: -1;
+}
+
+
